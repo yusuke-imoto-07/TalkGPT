@@ -6,7 +6,7 @@ history = []
 
 def main():
     root = tk.Tk()
-    root.title('Talk GPT (gpt-3.5-turbo)')
+    root.title('Talk GPT (gpt-4)')
 
     widgets = {}
 
